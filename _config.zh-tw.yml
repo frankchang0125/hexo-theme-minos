@@ -1,0 +1,5 @@
+# Navigation bar menu links.
+menu:
+  文章列表: /archives
+  分類: /categories
+  標籤: /tags
