@@ -5,6 +5,7 @@ common:
   tag: 'Tag'
   categories: 'Categories'
   tags: 'Tags'
+  about_me: 'About Me'
 nav:
   next: 'Next'
   prev: 'Prev'
